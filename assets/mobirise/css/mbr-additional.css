@@ -1543,6 +1543,18 @@ body {
 .cid-rBzz90mrHh textarea.form-control {
   min-height: 188px;
 }
+.cid-rJd4nicLRT {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #7fdbfd, #6670a9);
+}
+.cid-rJd4nicLRT .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-rJd4nicLRT .social-list a:focus {
+  text-decoration: none;
+}
 .cid-rBe4NVa5Bq {
   padding-top: 15px;
   padding-bottom: 15px;
